@@ -84,4 +84,3 @@ public class Book {
             .publishDate(LocalDate.now())
             .build();
 }
-
