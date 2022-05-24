@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c47941-4906-4a97-bb8f-77802752b4e3" name="Changes" comment="" />
+    <list default="true" id="d7c47941-4906-4a97-bb8f-77802752b4e3" name="Changes" comment="PGO3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3e891804-2e5c-41f9-ba40-a948cd25cd2d" />
+        <option name="url" value="https://github.com/IdaGeoida/PGO_11c_s24514.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="28cmiPhozFy6niqaBsJNsLIHPYd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -99,7 +109,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -126,12 +136,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651524378269</updated>
-      <workItem from="1651524379615" duration="15474000" />
+      <workItem from="1651524379615" duration="17045000" />
+      <workItem from="1652974161948" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
